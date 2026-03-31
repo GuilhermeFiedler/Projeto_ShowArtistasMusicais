@@ -1,4 +1,4 @@
-# 🎵 Projeto Show de Artistas Musicais
+# 🎵 Show de Artistas Musicais
 
 Sistema desenvolvido em Java para cadastro e exibição de artistas musicais e seus shows, com foco na prática de Programação Orientada a Objetos (POO) e organização de dados.
 
