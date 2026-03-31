@@ -1,4 +1,4 @@
-# 🎵 Show de Artistas Musicais
+# 🎵 Relatório de Contrato para Shows de Artistas Musicais
 
 Sistema desenvolvido em Java para cadastro e exibição de artistas musicais e seus shows, com foco na prática de Programação Orientada a Objetos (POO) e organização de dados.
 
@@ -9,7 +9,7 @@ Sistema desenvolvido em Java para cadastro e exibição de artistas musicais e s
 - Cadastro de artistas musicais  
 - Cadastro de shows  
 - Associação de artistas aos shows  
-- Listagem e exibição de informações dos artistas  
+- Listagem e exibição de informações dos contratos gerados entre show e artistas  
 
 ---
 
